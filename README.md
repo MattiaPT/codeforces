@@ -1,4 +1,4 @@
-### Codeforces
+## Codeforces
 On this repository I will archive my raw code from codeforces competitions.
 
 | Event | Final standings: |
